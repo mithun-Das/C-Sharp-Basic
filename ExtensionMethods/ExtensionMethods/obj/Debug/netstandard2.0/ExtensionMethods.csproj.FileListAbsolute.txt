@@ -1,0 +1,9 @@
+E:\C sharp practice\ExtensionMethods\ExtensionMethods\bin\Debug\netstandard2.0\ExtensionMethods.deps.json
+E:\C sharp practice\ExtensionMethods\ExtensionMethods\bin\Debug\netstandard2.0\ExtensionMethods.dll
+E:\C sharp practice\ExtensionMethods\ExtensionMethods\bin\Debug\netstandard2.0\ExtensionMethods.pdb
+E:\C sharp practice\ExtensionMethods\ExtensionMethods\obj\Debug\netstandard2.0\ExtensionMethods.csprojAssemblyReference.cache
+E:\C sharp practice\ExtensionMethods\ExtensionMethods\obj\Debug\netstandard2.0\ExtensionMethods.csproj.CoreCompileInputs.cache
+E:\C sharp practice\ExtensionMethods\ExtensionMethods\obj\Debug\netstandard2.0\ExtensionMethods.AssemblyInfoInputs.cache
+E:\C sharp practice\ExtensionMethods\ExtensionMethods\obj\Debug\netstandard2.0\ExtensionMethods.AssemblyInfo.cs
+E:\C sharp practice\ExtensionMethods\ExtensionMethods\obj\Debug\netstandard2.0\ExtensionMethods.dll
+E:\C sharp practice\ExtensionMethods\ExtensionMethods\obj\Debug\netstandard2.0\ExtensionMethods.pdb

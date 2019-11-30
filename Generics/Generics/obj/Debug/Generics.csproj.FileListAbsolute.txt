@@ -1,0 +1,7 @@
+E:\C sharp practice\Generics\Generics\bin\Debug\Generics.exe.config
+E:\C sharp practice\Generics\Generics\bin\Debug\Generics.exe
+E:\C sharp practice\Generics\Generics\bin\Debug\Generics.pdb
+E:\C sharp practice\Generics\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+E:\C sharp practice\Generics\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+E:\C sharp practice\Generics\Generics\obj\Debug\Generics.exe
+E:\C sharp practice\Generics\Generics\obj\Debug\Generics.pdb

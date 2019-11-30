@@ -1,0 +1,7 @@
+E:\C sharp practice\TypeConversion\TypeConversion\bin\Debug\TypeConversion.exe.config
+E:\C sharp practice\TypeConversion\TypeConversion\bin\Debug\TypeConversion.exe
+E:\C sharp practice\TypeConversion\TypeConversion\bin\Debug\TypeConversion.pdb
+E:\C sharp practice\TypeConversion\TypeConversion\obj\Debug\TypeConversion.csprojAssemblyReference.cache
+E:\C sharp practice\TypeConversion\TypeConversion\obj\Debug\TypeConversion.csproj.CoreCompileInputs.cache
+E:\C sharp practice\TypeConversion\TypeConversion\obj\Debug\TypeConversion.exe
+E:\C sharp practice\TypeConversion\TypeConversion\obj\Debug\TypeConversion.pdb

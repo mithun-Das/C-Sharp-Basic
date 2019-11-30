@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ExtensionMethods">
+      <HintPath>..\..\ExtensionMethods\ExtensionMethods\bin\Debug\netstandard2.0\ExtensionMethods.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

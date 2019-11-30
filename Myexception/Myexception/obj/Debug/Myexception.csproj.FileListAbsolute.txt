@@ -1,0 +1,7 @@
+E:\C sharp practice\Myexception\Myexception\bin\Debug\Myexception.exe.config
+E:\C sharp practice\Myexception\Myexception\bin\Debug\Myexception.exe
+E:\C sharp practice\Myexception\Myexception\bin\Debug\Myexception.pdb
+E:\C sharp practice\Myexception\Myexception\obj\Debug\Myexception.csprojAssemblyReference.cache
+E:\C sharp practice\Myexception\Myexception\obj\Debug\Myexception.csproj.CoreCompileInputs.cache
+E:\C sharp practice\Myexception\Myexception\obj\Debug\Myexception.exe
+E:\C sharp practice\Myexception\Myexception\obj\Debug\Myexception.pdb

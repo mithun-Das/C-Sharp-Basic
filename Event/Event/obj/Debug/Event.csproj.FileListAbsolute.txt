@@ -1,0 +1,7 @@
+E:\C sharp practice\Event\Event\obj\Debug\Event.csprojAssemblyReference.cache
+E:\C sharp practice\Event\Event\obj\Debug\Event.csproj.CoreCompileInputs.cache
+E:\C sharp practice\Event\Event\bin\Debug\Event.exe.config
+E:\C sharp practice\Event\Event\bin\Debug\Event.exe
+E:\C sharp practice\Event\Event\bin\Debug\Event.pdb
+E:\C sharp practice\Event\Event\obj\Debug\Event.exe
+E:\C sharp practice\Event\Event\obj\Debug\Event.pdb

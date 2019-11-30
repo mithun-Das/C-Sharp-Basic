@@ -1,0 +1,7 @@
+C:\Users\mithun.das\Documents\Visual Studio 2017\Projects\StringDemo\FileAndDirectory\bin\Debug\FileAndDirectory.exe.config
+C:\Users\mithun.das\Documents\Visual Studio 2017\Projects\StringDemo\FileAndDirectory\bin\Debug\FileAndDirectory.exe
+C:\Users\mithun.das\Documents\Visual Studio 2017\Projects\StringDemo\FileAndDirectory\bin\Debug\FileAndDirectory.pdb
+C:\Users\mithun.das\Documents\Visual Studio 2017\Projects\StringDemo\FileAndDirectory\obj\Debug\FileAndDirectory.csprojAssemblyReference.cache
+C:\Users\mithun.das\Documents\Visual Studio 2017\Projects\StringDemo\FileAndDirectory\obj\Debug\FileAndDirectory.csproj.CoreCompileInputs.cache
+C:\Users\mithun.das\Documents\Visual Studio 2017\Projects\StringDemo\FileAndDirectory\obj\Debug\FileAndDirectory.exe
+C:\Users\mithun.das\Documents\Visual Studio 2017\Projects\StringDemo\FileAndDirectory\obj\Debug\FileAndDirectory.pdb

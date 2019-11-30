@@ -1,0 +1,7 @@
+E:\C sharp practice\Modifier\Modifier\bin\Debug\Modifier.exe.config
+E:\C sharp practice\Modifier\Modifier\bin\Debug\Modifier.exe
+E:\C sharp practice\Modifier\Modifier\bin\Debug\Modifier.pdb
+E:\C sharp practice\Modifier\Modifier\obj\Debug\Modifier.csprojAssemblyReference.cache
+E:\C sharp practice\Modifier\Modifier\obj\Debug\Modifier.csproj.CoreCompileInputs.cache
+E:\C sharp practice\Modifier\Modifier\obj\Debug\Modifier.exe
+E:\C sharp practice\Modifier\Modifier\obj\Debug\Modifier.pdb

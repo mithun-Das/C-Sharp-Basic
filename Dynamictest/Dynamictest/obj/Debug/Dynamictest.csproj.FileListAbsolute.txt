@@ -1,0 +1,7 @@
+E:\C sharp practice\Dynamictest\Dynamictest\bin\Debug\Dynamictest.exe.config
+E:\C sharp practice\Dynamictest\Dynamictest\bin\Debug\Dynamictest.exe
+E:\C sharp practice\Dynamictest\Dynamictest\bin\Debug\Dynamictest.pdb
+E:\C sharp practice\Dynamictest\Dynamictest\obj\Debug\Dynamictest.csprojAssemblyReference.cache
+E:\C sharp practice\Dynamictest\Dynamictest\obj\Debug\Dynamictest.csproj.CoreCompileInputs.cache
+E:\C sharp practice\Dynamictest\Dynamictest\obj\Debug\Dynamictest.exe
+E:\C sharp practice\Dynamictest\Dynamictest\obj\Debug\Dynamictest.pdb

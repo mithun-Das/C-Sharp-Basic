@@ -1,0 +1,11 @@
+E:\C sharp practice\AsynchronousTest\AsynchronousTest\bin\Debug\netcoreapp2.2\AsynchronousTest.deps.json
+E:\C sharp practice\AsynchronousTest\AsynchronousTest\bin\Debug\netcoreapp2.2\AsynchronousTest.runtimeconfig.json
+E:\C sharp practice\AsynchronousTest\AsynchronousTest\bin\Debug\netcoreapp2.2\AsynchronousTest.runtimeconfig.dev.json
+E:\C sharp practice\AsynchronousTest\AsynchronousTest\bin\Debug\netcoreapp2.2\AsynchronousTest.dll
+E:\C sharp practice\AsynchronousTest\AsynchronousTest\bin\Debug\netcoreapp2.2\AsynchronousTest.pdb
+E:\C sharp practice\AsynchronousTest\AsynchronousTest\obj\Debug\netcoreapp2.2\AsynchronousTest.csprojAssemblyReference.cache
+E:\C sharp practice\AsynchronousTest\AsynchronousTest\obj\Debug\netcoreapp2.2\AsynchronousTest.csproj.CoreCompileInputs.cache
+E:\C sharp practice\AsynchronousTest\AsynchronousTest\obj\Debug\netcoreapp2.2\AsynchronousTest.AssemblyInfoInputs.cache
+E:\C sharp practice\AsynchronousTest\AsynchronousTest\obj\Debug\netcoreapp2.2\AsynchronousTest.AssemblyInfo.cs
+E:\C sharp practice\AsynchronousTest\AsynchronousTest\obj\Debug\netcoreapp2.2\AsynchronousTest.dll
+E:\C sharp practice\AsynchronousTest\AsynchronousTest\obj\Debug\netcoreapp2.2\AsynchronousTest.pdb

@@ -1,0 +1,7 @@
+E:\C sharp practice\InterfaceClass\InterfaceClass\bin\Debug\InterfaceClass.exe.config
+E:\C sharp practice\InterfaceClass\InterfaceClass\bin\Debug\InterfaceClass.exe
+E:\C sharp practice\InterfaceClass\InterfaceClass\bin\Debug\InterfaceClass.pdb
+E:\C sharp practice\InterfaceClass\InterfaceClass\obj\Debug\InterfaceClass.csprojAssemblyReference.cache
+E:\C sharp practice\InterfaceClass\InterfaceClass\obj\Debug\InterfaceClass.csproj.CoreCompileInputs.cache
+E:\C sharp practice\InterfaceClass\InterfaceClass\obj\Debug\InterfaceClass.exe
+E:\C sharp practice\InterfaceClass\InterfaceClass\obj\Debug\InterfaceClass.pdb

@@ -1,0 +1,7 @@
+E:\C sharp practice\CustomException\CustomException\bin\Debug\CustomException.exe.config
+E:\C sharp practice\CustomException\CustomException\bin\Debug\CustomException.exe
+E:\C sharp practice\CustomException\CustomException\bin\Debug\CustomException.pdb
+E:\C sharp practice\CustomException\CustomException\obj\Debug\CustomException.csprojAssemblyReference.cache
+E:\C sharp practice\CustomException\CustomException\obj\Debug\CustomException.csproj.CoreCompileInputs.cache
+E:\C sharp practice\CustomException\CustomException\obj\Debug\CustomException.exe
+E:\C sharp practice\CustomException\CustomException\obj\Debug\CustomException.pdb

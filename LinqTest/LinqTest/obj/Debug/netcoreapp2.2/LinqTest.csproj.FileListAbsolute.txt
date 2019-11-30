@@ -1,0 +1,11 @@
+E:\C sharp practice\LinqTest\LinqTest\bin\Debug\netcoreapp2.2\LinqTest.deps.json
+E:\C sharp practice\LinqTest\LinqTest\bin\Debug\netcoreapp2.2\LinqTest.runtimeconfig.json
+E:\C sharp practice\LinqTest\LinqTest\bin\Debug\netcoreapp2.2\LinqTest.runtimeconfig.dev.json
+E:\C sharp practice\LinqTest\LinqTest\bin\Debug\netcoreapp2.2\LinqTest.dll
+E:\C sharp practice\LinqTest\LinqTest\bin\Debug\netcoreapp2.2\LinqTest.pdb
+E:\C sharp practice\LinqTest\LinqTest\obj\Debug\netcoreapp2.2\LinqTest.csprojAssemblyReference.cache
+E:\C sharp practice\LinqTest\LinqTest\obj\Debug\netcoreapp2.2\LinqTest.csproj.CoreCompileInputs.cache
+E:\C sharp practice\LinqTest\LinqTest\obj\Debug\netcoreapp2.2\LinqTest.AssemblyInfoInputs.cache
+E:\C sharp practice\LinqTest\LinqTest\obj\Debug\netcoreapp2.2\LinqTest.AssemblyInfo.cs
+E:\C sharp practice\LinqTest\LinqTest\obj\Debug\netcoreapp2.2\LinqTest.dll
+E:\C sharp practice\LinqTest\LinqTest\obj\Debug\netcoreapp2.2\LinqTest.pdb

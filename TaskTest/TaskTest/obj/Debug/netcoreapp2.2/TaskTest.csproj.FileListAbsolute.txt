@@ -1,0 +1,11 @@
+E:\C sharp practice\TaskTest\TaskTest\bin\Debug\netcoreapp2.2\TaskTest.deps.json
+E:\C sharp practice\TaskTest\TaskTest\bin\Debug\netcoreapp2.2\TaskTest.runtimeconfig.json
+E:\C sharp practice\TaskTest\TaskTest\bin\Debug\netcoreapp2.2\TaskTest.runtimeconfig.dev.json
+E:\C sharp practice\TaskTest\TaskTest\bin\Debug\netcoreapp2.2\TaskTest.dll
+E:\C sharp practice\TaskTest\TaskTest\bin\Debug\netcoreapp2.2\TaskTest.pdb
+E:\C sharp practice\TaskTest\TaskTest\obj\Debug\netcoreapp2.2\TaskTest.csprojAssemblyReference.cache
+E:\C sharp practice\TaskTest\TaskTest\obj\Debug\netcoreapp2.2\TaskTest.csproj.CoreCompileInputs.cache
+E:\C sharp practice\TaskTest\TaskTest\obj\Debug\netcoreapp2.2\TaskTest.AssemblyInfoInputs.cache
+E:\C sharp practice\TaskTest\TaskTest\obj\Debug\netcoreapp2.2\TaskTest.AssemblyInfo.cs
+E:\C sharp practice\TaskTest\TaskTest\obj\Debug\netcoreapp2.2\TaskTest.dll
+E:\C sharp practice\TaskTest\TaskTest\obj\Debug\netcoreapp2.2\TaskTest.pdb

@@ -1,0 +1,14 @@
+E:\C sharp practice\ExtensionTest\ExtensionTest\bin\Debug\netcoreapp2.2\ExtensionTest.deps.json
+E:\C sharp practice\ExtensionTest\ExtensionTest\bin\Debug\netcoreapp2.2\ExtensionTest.runtimeconfig.json
+E:\C sharp practice\ExtensionTest\ExtensionTest\bin\Debug\netcoreapp2.2\ExtensionTest.runtimeconfig.dev.json
+E:\C sharp practice\ExtensionTest\ExtensionTest\bin\Debug\netcoreapp2.2\ExtensionTest.dll
+E:\C sharp practice\ExtensionTest\ExtensionTest\bin\Debug\netcoreapp2.2\ExtensionTest.pdb
+E:\C sharp practice\ExtensionTest\ExtensionTest\obj\Debug\netcoreapp2.2\ExtensionTest.csprojAssemblyReference.cache
+E:\C sharp practice\ExtensionTest\ExtensionTest\obj\Debug\netcoreapp2.2\ExtensionTest.csproj.CoreCompileInputs.cache
+E:\C sharp practice\ExtensionTest\ExtensionTest\obj\Debug\netcoreapp2.2\ExtensionTest.AssemblyInfoInputs.cache
+E:\C sharp practice\ExtensionTest\ExtensionTest\obj\Debug\netcoreapp2.2\ExtensionTest.AssemblyInfo.cs
+E:\C sharp practice\ExtensionTest\ExtensionTest\obj\Debug\netcoreapp2.2\ExtensionTest.dll
+E:\C sharp practice\ExtensionTest\ExtensionTest\obj\Debug\netcoreapp2.2\ExtensionTest.pdb
+E:\C sharp practice\ExtensionTest\ExtensionTest\bin\Debug\netcoreapp2.2\ExtensionMethods.dll
+E:\C sharp practice\ExtensionTest\ExtensionTest\bin\Debug\netcoreapp2.2\ExtensionMethods.pdb
+E:\C sharp practice\ExtensionTest\ExtensionTest\obj\Debug\netcoreapp2.2\ExtensionTest.csproj.CopyComplete

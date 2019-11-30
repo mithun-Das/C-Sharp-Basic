@@ -1,0 +1,7 @@
+E:\C sharp practice\classFundamentals\classFundamentals\bin\Debug\classFundamentals.exe.config
+E:\C sharp practice\classFundamentals\classFundamentals\bin\Debug\classFundamentals.exe
+E:\C sharp practice\classFundamentals\classFundamentals\bin\Debug\classFundamentals.pdb
+E:\C sharp practice\classFundamentals\classFundamentals\obj\Debug\classFundamentals.csproj.CoreCompileInputs.cache
+E:\C sharp practice\classFundamentals\classFundamentals\obj\Debug\classFundamentals.exe
+E:\C sharp practice\classFundamentals\classFundamentals\obj\Debug\classFundamentals.pdb
+E:\C sharp practice\classFundamentals\classFundamentals\obj\Debug\ClassFundamentals.csprojAssemblyReference.cache

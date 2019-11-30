@@ -1,0 +1,7 @@
+E:\C sharp practice\DelegateTest\DelegateTest\bin\Debug\DelegateTest.exe.config
+E:\C sharp practice\DelegateTest\DelegateTest\bin\Debug\DelegateTest.exe
+E:\C sharp practice\DelegateTest\DelegateTest\bin\Debug\DelegateTest.pdb
+E:\C sharp practice\DelegateTest\DelegateTest\obj\Debug\DelegateTest.csprojAssemblyReference.cache
+E:\C sharp practice\DelegateTest\DelegateTest\obj\Debug\DelegateTest.csproj.CoreCompileInputs.cache
+E:\C sharp practice\DelegateTest\DelegateTest\obj\Debug\DelegateTest.exe
+E:\C sharp practice\DelegateTest\DelegateTest\obj\Debug\DelegateTest.pdb

@@ -1,0 +1,11 @@
+E:\C sharp practice\ThreadTimeTest\ThreadTimeTest\bin\Debug\netcoreapp2.2\ThreadTimeTest.deps.json
+E:\C sharp practice\ThreadTimeTest\ThreadTimeTest\bin\Debug\netcoreapp2.2\ThreadTimeTest.runtimeconfig.json
+E:\C sharp practice\ThreadTimeTest\ThreadTimeTest\bin\Debug\netcoreapp2.2\ThreadTimeTest.runtimeconfig.dev.json
+E:\C sharp practice\ThreadTimeTest\ThreadTimeTest\bin\Debug\netcoreapp2.2\ThreadTimeTest.dll
+E:\C sharp practice\ThreadTimeTest\ThreadTimeTest\bin\Debug\netcoreapp2.2\ThreadTimeTest.pdb
+E:\C sharp practice\ThreadTimeTest\ThreadTimeTest\obj\Debug\netcoreapp2.2\ThreadTimeTest.csprojAssemblyReference.cache
+E:\C sharp practice\ThreadTimeTest\ThreadTimeTest\obj\Debug\netcoreapp2.2\ThreadTimeTest.csproj.CoreCompileInputs.cache
+E:\C sharp practice\ThreadTimeTest\ThreadTimeTest\obj\Debug\netcoreapp2.2\ThreadTimeTest.AssemblyInfoInputs.cache
+E:\C sharp practice\ThreadTimeTest\ThreadTimeTest\obj\Debug\netcoreapp2.2\ThreadTimeTest.AssemblyInfo.cs
+E:\C sharp practice\ThreadTimeTest\ThreadTimeTest\obj\Debug\netcoreapp2.2\ThreadTimeTest.dll
+E:\C sharp practice\ThreadTimeTest\ThreadTimeTest\obj\Debug\netcoreapp2.2\ThreadTimeTest.pdb

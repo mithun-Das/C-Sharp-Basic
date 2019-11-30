@@ -1,0 +1,7 @@
+E:\C sharp practice\InheritanceClass\Inheritance\bin\Debug\Inheritance.exe.config
+E:\C sharp practice\InheritanceClass\Inheritance\bin\Debug\Inheritance.exe
+E:\C sharp practice\InheritanceClass\Inheritance\bin\Debug\Inheritance.pdb
+E:\C sharp practice\InheritanceClass\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+E:\C sharp practice\InheritanceClass\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+E:\C sharp practice\InheritanceClass\Inheritance\obj\Debug\Inheritance.exe
+E:\C sharp practice\InheritanceClass\Inheritance\obj\Debug\Inheritance.pdb
